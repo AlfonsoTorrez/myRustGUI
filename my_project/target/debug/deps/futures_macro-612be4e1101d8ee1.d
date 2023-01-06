@@ -1,0 +1,9 @@
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/myProject/target/debug/deps/libfutures_macro-612be4e1101d8ee1.dylib: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/executor.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/join.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/select.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/stream_select.rs
+
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/myProject/target/debug/deps/futures_macro-612be4e1101d8ee1.d: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/executor.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/join.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/select.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/stream_select.rs
+
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/lib.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/executor.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/join.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/select.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/stream_select.rs:

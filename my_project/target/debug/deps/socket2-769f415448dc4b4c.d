@@ -1,0 +1,11 @@
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/myProject/target/debug/deps/socket2-769f415448dc4b4c.rmeta: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs
+
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/myProject/target/debug/deps/libsocket2-769f415448dc4b4c.rlib: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs
+
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/myProject/target/debug/deps/socket2-769f415448dc4b4c.d: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs
+
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs:
