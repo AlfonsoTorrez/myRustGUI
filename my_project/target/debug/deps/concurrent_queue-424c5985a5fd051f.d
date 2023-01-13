@@ -1,0 +1,9 @@
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/concurrent_queue-424c5985a5fd051f.rmeta: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/bounded.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/single.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/unbounded.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/sync.rs
+
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/concurrent_queue-424c5985a5fd051f.d: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/bounded.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/single.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/unbounded.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/sync.rs
+
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/lib.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/bounded.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/single.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/unbounded.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.0.0/src/sync.rs:

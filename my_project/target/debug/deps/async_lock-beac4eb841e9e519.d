@@ -1,0 +1,10 @@
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/async_lock-beac4eb841e9e519.rmeta: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/barrier.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/mutex.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/once_cell.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/rwlock.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/semaphore.rs
+
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/async_lock-beac4eb841e9e519.d: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/barrier.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/mutex.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/once_cell.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/rwlock.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/semaphore.rs
+
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/lib.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/barrier.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/mutex.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/once_cell.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/rwlock.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/async-lock-2.6.0/src/semaphore.rs:

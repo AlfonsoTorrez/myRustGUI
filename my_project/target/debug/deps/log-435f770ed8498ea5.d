@@ -1,0 +1,12 @@
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/log-435f770ed8498ea5.rmeta: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/mod.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/error.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/key.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/source.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/value.rs
+
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/log-435f770ed8498ea5.d: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/mod.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/error.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/key.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/source.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/value.rs
+
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/mod.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/error.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/key.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/source.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/value.rs:

@@ -1,0 +1,10 @@
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/wgpu_glyph-bca45389b9f11b6f.rmeta: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/builder.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/pipeline.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/pipeline/cache.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/region.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/shader/glyph.wgsl
+
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/wgpu_glyph-bca45389b9f11b6f.d: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/builder.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/pipeline.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/pipeline/cache.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/region.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/shader/glyph.wgsl
+
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/lib.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/builder.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/pipeline.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/pipeline/cache.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/region.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu_glyph-0.18.0/src/shader/glyph.wgsl:

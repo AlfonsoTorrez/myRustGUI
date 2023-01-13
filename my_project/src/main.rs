@@ -18,8 +18,8 @@ static INPUT_ID: Lazy<text_input::Id> = Lazy::new(text_input::Id::unique);
 
 pub fn main() -> iced::Result {
     Todos::run(Settings {
-        window: window::Settings {
-            size: (500, 800),
+        window: window::Settings {// Window sizing 
+            size: (500, 500),
             ..window::Settings::default()
         },
         ..Settings::default()
@@ -70,8 +70,8 @@ impl Application for Todos {
             Todos::Loading => false,
             Todos::Loaded(state) => state.dirty,
         };
-
-        format!("Todos{} - Iced", if dirty { "*" } else { "" })
+        format!("myNotes{}", if dirty { "*" } else { "" })
+        //format!("Todos{} - Iced", if dirty { "*" } else { "" })
     }
 
     fn update(&mut self, message: Message) -> Command<Message> {
@@ -194,14 +194,14 @@ impl Application for Todos {
                 tasks,
                 ..
             }) => {
-                let title = text("todos")
+                let title = text("myNotes")
                     .width(Length::Fill)
-                    .size(100)
+                    .size(50)
                     .style(Color::from([0.5, 0.5, 0.5]))
                     .horizontal_alignment(alignment::Horizontal::Center);
 
                 let input = text_input(
-                    "What needs to be done?",
+                    "Take out the trash",
                     input_value,
                     Message::InputChanged,
                 )

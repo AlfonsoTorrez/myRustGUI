@@ -1,0 +1,11 @@
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/tinyvec-7546e0265b9f2633.rmeta: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array/generated_impl.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec_drain.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/slicevec.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/tinyvec.rs
+
+/Users/alfonsotorres/Documents/GitHub/myRustGUI/my_project/target/debug/deps/tinyvec-7546e0265b9f2633.d: /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/lib.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array/generated_impl.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec_drain.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/slicevec.rs /Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/tinyvec.rs
+
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/lib.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/array/generated_impl.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/arrayvec_drain.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/slicevec.rs:
+/Users/alfonsotorres/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.6.0/src/tinyvec.rs:
