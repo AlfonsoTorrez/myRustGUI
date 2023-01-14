@@ -194,7 +194,7 @@ impl Application for Todos {
                 tasks,
                 ..
             }) => {
-                let title = text("myNotes")
+                let title = text("myNotes") // Title above the input space
                     .width(Length::Fill)
                     .size(50)
                     .style(Color::from([0.5, 0.5, 0.5]))
